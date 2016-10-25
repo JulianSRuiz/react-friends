@@ -18,6 +18,7 @@ h1 strong {
 
 input, select, form, ul {
     margin-top: 10px;
+    margin-right: 5px;
 }
 
 .searchForm{
